@@ -1,0 +1,5 @@
+[
+  {"username": "alice", "team": "sales",  "role": "account executive"},
+  {"username": "bob",   "team": "sales",  "role": "sales development rep"},
+  {"username": "carol", "team": "legal",  "role": "counsel"}
+]
